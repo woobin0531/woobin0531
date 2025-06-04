@@ -29,7 +29,6 @@
 
 ### 🧩 Tools & IDE
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
@@ -42,6 +41,9 @@
 > 👉 [링크 준비 중]  
 > 🎯 *AI agent 기반 공공기관 목적용 키오스크 개발 (공모전 참여, 2025.06 ~)*
 
+### 🔹 미래내일일경험 프로잭트
+> **AI Agent 기반 개인 맞춤형 뉴스 서비스 (공모전 참여, 2025.06 ~)**
+> 
 ---
 
 ## 📚 공부 중
