@@ -48,15 +48,8 @@
 
 ## 📚 공부 중
 
-- C 언어 / Java / React / Python  
-- Git, 협업, 실무 환경에 익숙해지는 중입니다.
+- C / Java / React / Python  / JavaScript
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=tokyonight" />
-</p>
-
-> `your_username`를 본인의 깃허브 아이디로 바꿔주세요!
