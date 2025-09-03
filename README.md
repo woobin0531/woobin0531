@@ -10,7 +10,6 @@
 
 ## 🧑‍💻 Introduction
 
-- 🎓 학력: 강원대학교 경영학과
 - 📫 이메일: cdevfrr@naver.com  
 - 🗂️ 노션 포트폴리오: [바로가기](https://www.notion.so/1e3122be880c80199c03f7f06a02c7d0)  
 - 💬 취미: 개발, 음악 감상, 영화, 여행
