@@ -1,13 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Woobin%20Jeong&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Developer&descAlignY=60&descAlign=50"/>
-  
-  <br>
-  
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Frontend+%26+Backend+Developer;AI+Model+Integration;Building+Real-World+Services" alt="Typing SVG" /></a>
-</div>
-
-<br>
-
 ## 🧑‍💻 About Me
 
 **"개발자를 꿈꾸는 정우빈입니다."**
